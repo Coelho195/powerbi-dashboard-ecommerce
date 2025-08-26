@@ -20,4 +20,10 @@
 
 ---
 
+## 🖼️ Prints do Dashboard
+![Página Inicial]()
+![Visão 1](prints/visao1.png)  
+![Visão 1](prints/visao2.png)  
+
+
 ✍️ Este projeto marca um avanço importante na minha jornada de transição para a área de dados. Ainda há muito por vir e estou animada com os próximos desafios! 😄
