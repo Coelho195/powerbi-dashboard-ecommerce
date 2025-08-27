@@ -1,11 +1,11 @@
 # Dashboard de E-commerce – Power BI
 
-📊 *Tema:* Loja online de roupas (dados fictícios)  
-🚀 *Objetivo:* Praticar modelagem, visualização e análise de dados no Power BI.
+*Tema:* Loja online de roupas (dados fictícios)  
+*Objetivo:* Praticar modelagem, visualização e análise de dados no Power BI.
 
 ---
 
-## 🎯 Questões Exploradas
+## Questões Exploradas
 - Onde estamos vendendo? (Mapa)  
 - Qual a taxa de conversão? (Funil)  
 - Quais categorias e canais performam mais? (Gráfico de linha)  
@@ -14,7 +14,7 @@
   
 ---
 
-## 🚀 Evolução do Projeto
+## Evolução do Projeto
 - A *Visão 1* já está pronta com KPIs principais e análises gerais.  
 - A *Visão 2* está em construção, onde pretendo incluir gráficos baseados em uma tabela calendário (como top 5 produtos mais vendidos por período).  
 
